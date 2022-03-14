@@ -1,6 +1,7 @@
 <template>
   <div>
     <app-header />
+    <landing-page-hero />
   </div>
 </template>
 
