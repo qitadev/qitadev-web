@@ -2,6 +2,7 @@
   <div>
     <app-header />
     <landing-page-hero />
+    <landing-page-services />
   </div>
 </template>
 
