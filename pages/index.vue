@@ -5,6 +5,7 @@
     <landing-page-services />
     <landing-page-service-steps />
     <landing-page-portfolio />
+    <landing-page-clients />
   </div>
 </template>
 
