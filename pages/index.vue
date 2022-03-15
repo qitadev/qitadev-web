@@ -4,6 +4,7 @@
     <landing-page-hero />
     <landing-page-services />
     <landing-page-service-steps />
+    <landing-page-portfolio />
   </div>
 </template>
 
