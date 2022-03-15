@@ -5,7 +5,10 @@
       Raih tujuan dan tumbuh bersama kami dengan digitalisasi bisnismu
     </h1>
     <p class="mt-4">
-      Sekarang tidak perlu pusing lagi <br>
+      <span class="relative leading-loose">
+        Sekarang tidak perlu pusing lagi
+        <img src="images/stripe.svg" alt="Stripe" class="absolute inset-x-0 -bottom-2">
+      </span><br>
       rancang dan buat produk digital sesuai kebutuhan bersama kami.
     </p>
     <nuxt-link to="contact-us" class="mt-4 inline-block font-medium rounded-lg bg-primary text-white px-4 py-2">
