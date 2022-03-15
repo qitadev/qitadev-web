@@ -1,7 +1,7 @@
 <template>
   <header class="p-5 bg-gray-50 flex justify-between items-center">
     <nuxt-link to="/">
-      <img src="qitadev-logo.svg" alt="Qitadev Logo" class="w-32">
+      <img src="images/qitadev-logo.svg" alt="Qitadev Logo" class="w-32">
     </nuxt-link>
     <button class="lg:hidden">
       <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">

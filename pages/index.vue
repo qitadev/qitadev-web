@@ -9,6 +9,7 @@
     <landing-page-testimonials />
     <landing-page-consultation-banner />
     <landing-page-faq />
+    <app-footer />
   </div>
 </template>
 
