@@ -8,6 +8,7 @@
     <landing-page-clients />
     <landing-page-testimonials />
     <landing-page-consultation-banner />
+    <landing-page-faq />
   </div>
 </template>
 
