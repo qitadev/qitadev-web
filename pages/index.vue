@@ -7,6 +7,7 @@
     <landing-page-portfolio />
     <landing-page-clients />
     <landing-page-testimonials />
+    <landing-page-consultation-banner />
   </div>
 </template>
 
