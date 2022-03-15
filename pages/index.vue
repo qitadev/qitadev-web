@@ -3,6 +3,7 @@
     <app-header />
     <landing-page-hero />
     <landing-page-services />
+    <landing-page-service-steps />
   </div>
 </template>
 
