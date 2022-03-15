@@ -11,7 +11,7 @@
       </p>
       <ol class="mt-4 grid sm:grid-cols-2 gap-6">
         <li class="flex items-center">
-          <span class="w-[64px] h-[64px] flex items-center justify-center rounded-full border-2 border-primary text-primary text-2xl font-medium">
+          <span class="w-[64px] h-[64px] shrink-0 flex items-center justify-center rounded-full border-2 border-primary text-primary text-2xl font-medium">
             01
           </span>
           <div class="ml-2">
@@ -20,7 +20,7 @@
           </div>
         </li>
         <li class="flex items-center">
-          <span class="w-[64px] h-[64px] flex items-center justify-center rounded-full border-2 border-primary text-primary text-2xl font-medium">
+          <span class="w-[64px] h-[64px] shrink-0 flex items-center justify-center rounded-full border-2 border-primary text-primary text-2xl font-medium">
             02
           </span>
           <div class="ml-2">
@@ -29,7 +29,7 @@
           </div>
         </li>
         <li class="flex items-center">
-          <span class="w-[64px] h-[64px] flex items-center justify-center rounded-full border-2 border-primary text-primary text-2xl font-medium">
+          <span class="w-[64px] h-[64px] shrink-0 flex items-center justify-center rounded-full border-2 border-primary text-primary text-2xl font-medium">
             03
           </span>
           <div class="ml-2">
@@ -38,7 +38,7 @@
           </div>
         </li>
         <li class="flex items-center">
-          <span class="w-[64px] h-[64px] flex items-center justify-center rounded-full border-2 border-primary text-primary text-2xl font-medium">
+          <span class="w-[64px] h-[64px] shrink-0 flex items-center justify-center rounded-full border-2 border-primary text-primary text-2xl font-medium">
             04
           </span>
           <div class="ml-2">
