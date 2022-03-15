@@ -1,6 +1,5 @@
 <template>
   <div>
-    <app-header />
     <landing-page-hero />
     <landing-page-services />
     <landing-page-service-steps />
@@ -9,7 +8,6 @@
     <landing-page-testimonials />
     <landing-page-consultation-banner />
     <landing-page-faq />
-    <app-footer />
   </div>
 </template>
 
