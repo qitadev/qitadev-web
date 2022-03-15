@@ -1,5 +1,5 @@
 <template>
-  <header class="p-5 flex justify-between items-center">
+  <header class="p-5 bg-gray-50 flex justify-between items-center">
     <nuxt-link to="/">
       <img src="qitadev-logo.svg" alt="Qitadev Logo" class="w-32">
     </nuxt-link>
