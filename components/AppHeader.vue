@@ -9,28 +9,24 @@
       </svg>
     </button>
     <nav class="hidden lg:block">
-      <ul class="flex">
-        <li class="mr-8">
-          Services
-        </li>
-        <li class="mr-8">
-          Works
-        </li>
-        <li class="mr-8">
-          About Us
-        </li>
-        <li class="mr-8">
-          Products
-        </li>
-        <li class="mr-8">
-          For Clients
-        </li>
-        <li>
-          <nuxt-link to="/contact-us" class="rounded-lg border border-primary text-primary px-2 py-1 transition hover:bg-primary hover:text-white">
-            Contact Us
-          </nuxt-link>
-        </li>
-      </ul>
+      <nuxt-link to="/services" class="mr-8 hover:text-primary">
+        Services
+      </nuxt-link>
+      <nuxt-link to="/works" class="mr-8 hover:text-primary">
+        Works
+      </nuxt-link>
+      <nuxt-link to="/about-us" class="mr-8 hover:text-primary">
+        About Us
+      </nuxt-link>
+      <nuxt-link to="/products" class="mr-8 hover:text-primary">
+        Products
+      </nuxt-link>
+      <nuxt-link to="/for-clients" class="mr-8 hover:text-primary">
+        For Clients
+      </nuxt-link>
+      <nuxt-link to="/contact-us" class="rounded-lg border border-primary text-primary px-2 py-1 transition hover:bg-primary hover:text-white">
+        Contact Us
+      </nuxt-link>
     </nav>
   </header>
 </template>
