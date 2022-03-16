@@ -33,7 +33,7 @@
         </li>
       </ul>
 
-      <ul class="mt-16 grid grid-cols-3 gap-6">
+      <ul class="mt-16 grid sm:grid-cols-2 md:grid-cols-3 gap-6">
         <li>
           <img src="images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
           <div class="inline-block rounded-full border-2 border-white -mt-8 ml-4">
