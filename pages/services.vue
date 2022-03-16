@@ -17,7 +17,7 @@
         </div>
         <div class="mt-6 md:mt-0 md:ml-6 flex-1 shrink-0">
           <span class="text-4xl font-bold text-primary">01</span>
-          <h2 class="font-medium text-2xl">
+          <h2 class="mt-2 font-medium text-2xl">
             Web Application
           </h2>
           <p class="mt-4 text-sm font-light">
@@ -35,7 +35,7 @@
       <section class="mt-16 flex flex-col-reverse md:flex-row">
         <div class="mt-6 md:mt-0 flex-1 shrink-0">
           <span class="text-4xl font-bold text-primary">02</span>
-          <h2 class="font-medium text-2xl">
+          <h2 class="mt-2 font-medium text-2xl">
             Website/Landing Page
           </h2>
           <p class="mt-4 text-sm font-light">
@@ -59,7 +59,7 @@
         </div>
         <div class="mt-6 md:mt-0 md:ml-6 flex-1 shrink-0">
           <span class="text-4xl font-bold text-primary">03</span>
-          <h2 class="font-medium text-2xl">
+          <h2 class="mt-2 font-medium text-2xl">
             UI/UX Design
           </h2>
           <p class="mt-4 text-sm font-light">

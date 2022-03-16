@@ -9,20 +9,25 @@
       </svg>
     </button>
     <nav class="hidden lg:block">
-      <nuxt-link to="/services" class="mr-8 hover:text-primary">
+      <nuxt-link to="/services" class="link mr-8 relative">
         Services
+        <img src="images/stripe-short.svg" alt="Stripe" class="stripe absolute w-0 inset-x-0 -bottom-3">
       </nuxt-link>
-      <nuxt-link to="/works" class="mr-8 hover:text-primary">
+      <nuxt-link to="/works" class="link mr-8 relative">
         Works
+        <img src="images/stripe-short.svg" alt="Stripe" class="stripe absolute w-0 inset-x-0 -bottom-3">
       </nuxt-link>
-      <nuxt-link to="/about-us" class="mr-8 hover:text-primary">
+      <nuxt-link to="/about-us" class="link mr-8 relative">
         About Us
+        <img src="images/stripe-short.svg" alt="Stripe" class="stripe absolute w-0 inset-x-0 -bottom-3">
       </nuxt-link>
-      <nuxt-link to="/products" class="mr-8 hover:text-primary">
+      <nuxt-link to="/products" class="link mr-8 relative">
         Products
+        <img src="images/stripe-short.svg" alt="Stripe" class="stripe absolute w-0 inset-x-0 -bottom-3">
       </nuxt-link>
-      <nuxt-link to="/for-clients" class="mr-8 hover:text-primary">
+      <nuxt-link to="/for-clients" class="link mr-8 relative">
         For Clients
+        <img src="images/stripe-short.svg" alt="Stripe" class="stripe absolute w-0 inset-x-0 -bottom-3">
       </nuxt-link>
       <nuxt-link to="/contact-us" class="rounded-lg border border-primary text-primary px-2 py-1 transition hover:bg-primary hover:text-white">
         Contact Us
@@ -30,3 +35,17 @@
     </nav>
   </header>
 </template>
+
+<style scoped>
+  .link .stripe {
+    transition: width 0.2s ease-in-out;
+  }
+
+  .link:hover .stripe {
+    width: 100%;
+  }
+
+  .nuxt-link-active .stripe {
+    width: 100%;
+  }
+</style>
