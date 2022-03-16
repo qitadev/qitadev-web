@@ -4,7 +4,7 @@
     <landing-page-services />
     <landing-page-service-steps />
     <landing-page-portfolio />
-    <landing-page-clients />
+    <client-logos />
     <landing-page-testimonials />
     <consultation-banner />
     <landing-page-faq />
