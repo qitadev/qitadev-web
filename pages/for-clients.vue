@@ -1,11 +1,5 @@
 <template>
-  <div>
-    <!-- TODO -->
+  <div class="pb-24">
+    <coming-soon />
   </div>
 </template>
-
-<script>
-export default {
-  name: 'ForClientsPage'
-}
-</script>
