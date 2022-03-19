@@ -35,54 +35,54 @@
 
       <ul class="mt-16 grid sm:grid-cols-2 md:grid-cols-3 gap-6">
         <li>
-          <img src="images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
+          <img src="~/static/images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
           <div class="inline-block rounded-full border-2 border-white -mt-8 ml-4">
-            <img src="images/dikadoin-logo.png" alt="Dikadoin Logo" class="w-16 rounded-full">
+            <img src="~/static/images/dikadoin-logo.png" alt="Dikadoin Logo" class="w-16 rounded-full">
           </div>
           <span class="text-sm block">Landing Page</span>
-          <h3 class="font-medium text-xl">
+          <nuxt-link to="/works/bingung-berbagi" class="font-medium text-xl hover:text-primary transition-colors block">
             Optimalisasi Bisnis Dikadoin.dong
-          </h3>
+          </nuxt-link>
         </li>
         <li>
-          <img src="images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
+          <img src="~/static/images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
           <div class="inline-block rounded-full border-2 border-white -mt-8 ml-4">
-            <img src="images/dikadoin-logo.png" alt="Dikadoin Logo" class="w-16 rounded-full">
+            <img src="~/static/images/dikadoin-logo.png" alt="Dikadoin Logo" class="w-16 rounded-full">
           </div>
           <span class="text-sm block">Landing Page</span>
-          <h3 class="font-medium text-xl">
+          <nuxt-link to="/works/bingung-berbagi" class="font-medium text-xl hover:text-primary transition-colors block">
             Optimalisasi Bisnis Dikadoin.dong
-          </h3>
+          </nuxt-link>
         </li>
         <li>
-          <img src="images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
+          <img src="~/static/images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
           <div class="inline-block rounded-full border-2 border-white -mt-8 ml-4">
-            <img src="images/dikadoin-logo.png" alt="Dikadoin Logo" class="w-16 rounded-full">
+            <img src="~/static/images/dikadoin-logo.png" alt="Dikadoin Logo" class="w-16 rounded-full">
           </div>
           <span class="text-sm block">Landing Page</span>
-          <h3 class="font-medium text-xl">
+          <nuxt-link to="/works/bingung-berbagi" class="font-medium text-xl hover:text-primary transition-colors block">
             Optimalisasi Bisnis Dikadoin.dong
-          </h3>
+          </nuxt-link>
         </li>
         <li>
-          <img src="images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
+          <img src="~/static/images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
           <div class="inline-block rounded-full border-2 border-white -mt-8 ml-4">
-            <img src="images/dikadoin-logo.png" alt="Dikadoin Logo" class="w-16 rounded-full">
+            <img src="~/static/images/dikadoin-logo.png" alt="Dikadoin Logo" class="w-16 rounded-full">
           </div>
           <span class="text-sm block">Landing Page</span>
-          <h3 class="font-medium text-xl">
+          <nuxt-link to="/works/bingung-berbagi" class="font-medium text-xl hover:text-primary transition-colors block">
             Optimalisasi Bisnis Dikadoin.dong
-          </h3>
+          </nuxt-link>
         </li>
         <li>
-          <img src="images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
+          <img src="~/static/images/dikadoin-portfolio.png" alt="Dikadoin Portfolio" class="rounded-lg">
           <div class="inline-block rounded-full border-2 border-white -mt-8 ml-4">
-            <img src="images/dikadoin-logo.png" alt="Dikadoin Logo" class="w-16 rounded-full">
+            <img src="~/static/images/dikadoin-logo.png" alt="Dikadoin Logo" class="w-16 rounded-full">
           </div>
           <span class="text-sm block">Landing Page</span>
-          <h3 class="font-medium text-xl">
+          <nuxt-link to="/works/bingung-berbagi" class="font-medium text-xl hover:text-primary transition-colors block">
             Optimalisasi Bisnis Dikadoin.dong
-          </h3>
+          </nuxt-link>
         </li>
       </ul>
     </div>

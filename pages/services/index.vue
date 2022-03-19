@@ -13,7 +13,7 @@
 
       <section class="mt-16 flex flex-col md:flex-row">
         <div class="flex-1 shrink-0">
-          <img src="images/web-app.jpg" alt="Web Application" class="w-full aspect-video object-cover rounded-lg">
+          <img src="~/static/images/web-app.jpg" alt="Web Application" class="w-full aspect-video object-cover rounded-lg">
         </div>
         <div class="mt-6 md:mt-0 md:ml-6 flex-1 shrink-0">
           <span class="text-4xl font-bold text-primary">01</span>
@@ -49,13 +49,13 @@
           </nuxt-link>
         </div>
         <div class="md:ml-6 flex-1 shrink-0">
-          <img src="images/landing-page.jpg" alt="Landing Page" class="w-full aspect-video object-cover rounded-lg">
+          <img src="~/static/images/landing-page.jpg" alt="Landing Page" class="w-full aspect-video object-cover rounded-lg">
         </div>
       </section>
 
       <section class="mt-16 flex flex-col md:flex-row">
         <div class="flex-1 shrink-0">
-          <img src="images/ui-ux.png" alt="UI/UX Design" class="w-full aspect-video object-cover rounded-lg">
+          <img src="~/static/images/ui-ux.png" alt="UI/UX Design" class="w-full aspect-video object-cover rounded-lg">
         </div>
         <div class="mt-6 md:mt-0 md:ml-6 flex-1 shrink-0">
           <span class="text-4xl font-bold text-primary">03</span>

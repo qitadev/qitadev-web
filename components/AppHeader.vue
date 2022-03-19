@@ -9,11 +9,11 @@
       </svg>
     </button>
     <nav class="hidden lg:block">
-      <nuxt-link to="/services" class="link mr-8 relative">
+      <nuxt-link to="/services/" class="link mr-8 relative">
         Services
         <img src="images/stripe-short.svg" alt="Stripe" class="stripe absolute w-0 inset-x-0 -bottom-3">
       </nuxt-link>
-      <nuxt-link to="/works" class="link mr-8 relative">
+      <nuxt-link to="/works/" class="link mr-8 relative">
         Works
         <img src="images/stripe-short.svg" alt="Stripe" class="stripe absolute w-0 inset-x-0 -bottom-3">
       </nuxt-link>

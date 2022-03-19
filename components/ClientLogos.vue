@@ -6,16 +6,16 @@
     </h2>
     <ul class="mt-8 flex flex-wrap justify-center items-center">
       <li class="m-8">
-        <img src="images/lwu-logo.png" alt="Logo LWU UNISIA" class="h-12">
+        <img src="~/static/images/lwu-logo.png" alt="Logo LWU UNISIA" class="h-12">
       </li>
       <li class="m-8">
-        <img src="images/dikadoin-logo.png" alt="Logo Dikadoin Dong" class="h-12">
+        <img src="~/static/images/dikadoin-logo.png" alt="Logo Dikadoin Dong" class="h-12">
       </li>
       <li class="m-8">
-        <img src="images/bingber-logo.png" alt="Logo Bingber" class="h-12">
+        <img src="~/static/images/bingber-logo.png" alt="Logo Bingber" class="h-12">
       </li>
       <li class="m-8">
-        <img src="images/ra-yasdjanur-logo.png" alt="Logo RA Yasdjanur" class="h-12">
+        <img src="~/static/images/ra-yasdjanur-logo.png" alt="Logo RA Yasdjanur" class="h-12">
       </li>
     </ul>
   </section>
