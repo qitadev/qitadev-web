@@ -11,7 +11,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      { hid: 'description', name: 'description', content: 'Raih tujuan dan tumbuh bersama Qitadev untuk digitalisasi bisnismu. Melayani pembuatan web application, landing page website, dan UI/UX design. Konsultasi gratis sekarang!' },
       { name: 'format-detection', content: 'telephone=no' },
       { name: 'msapplication-TileColor', content: '#2b5797' },
       { name: 'theme-color', content: '#ffffff' }
