@@ -2,7 +2,7 @@
   <div class="pb-24">
     <section class="max-w-5xl px-5 mx-auto">
       <p class="mt-16 block">
-        <nuxt-link to="/works" class="text-gray-400">
+        <nuxt-link to="/works/" class="text-gray-400">
           Works
         </nuxt-link>
         / {{ project.name }}
