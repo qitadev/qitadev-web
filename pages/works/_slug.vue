@@ -118,6 +118,8 @@
         </div>
       </div>
     </section>
+
+    <consultation-banner />
   </div>
 </template>
 

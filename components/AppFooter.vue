@@ -3,19 +3,19 @@
     <div class="bg-primary py-16 text-white">
       <div class="max-w-5xl mx-auto px-5 grid grid-cols-2 md:grid-cols-6 gap-6">
         <div class="col-span-2">
-          <img src="images/qitadev-logo-white.svg" alt="Qitadev Logo" class="w-32">
+          <img src="~/static/images/qitadev-logo-white.svg" alt="Qitadev Logo" class="w-32">
           <div class="mt-6">
             <a href="#" class="inline-block mr-2">
-              <img src="icons/linkedin.svg" alt="Linkedin Logo">
+              <img src="~/static/icons/linkedin.svg" alt="Linkedin Logo">
             </a>
             <a href="#" class="inline-block mr-2">
-              <img src="icons/instagram.svg" alt="Instagram Logo">
+              <img src="~/static/icons/instagram.svg" alt="Instagram Logo">
             </a>
             <a href="#" class="inline-block mr-2">
-              <img src="icons/whatsapp.svg" alt="Whatsapp Logo">
+              <img src="~/static/icons/whatsapp.svg" alt="Whatsapp Logo">
             </a>
             <a href="#" class="inline-block mr-2">
-              <img src="icons/envelope.svg" alt="Email Logo">
+              <img src="~/static/icons/envelope.svg" alt="Email Logo">
             </a>
           </div>
           <p class="mt-6 text-sm font-light">
