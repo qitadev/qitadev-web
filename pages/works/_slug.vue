@@ -2,7 +2,7 @@
   <div class="pb-24">
     <section class="max-w-5xl px-5 mx-auto">
       <p class="mt-16 block">
-        <nuxt-link to="/works/" class="text-gray-400">
+        <nuxt-link to="/works" class="text-gray-400">
           Works
         </nuxt-link>
         / {{ project.name }}
@@ -20,12 +20,12 @@
           <p class="mt-6">
             {{ project.orgType }} | {{ project.location }}
           </p>
-          <nuxt-link :to="project.link" class="hover:text-primary mt-6">
+          <a :href="project.link" target="_blank" rel="noreferrer noopener" class="hover:text-primary mt-6">
             Lihat Website
             <svg xmlns="http://www.w3.org/2000/svg" class="inline h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
               <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd" />
             </svg>
-          </nuxt-link>
+          </a>
         </div>
         <div class="col-span-1 md:col-span-6 mt-8 md:mt-0">
           <img
